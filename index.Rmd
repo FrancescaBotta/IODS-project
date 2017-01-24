@@ -1,5 +1,6 @@
 ---
 title: "IODS course project"
+autor: "FrancescaBotta"
 output:
   html_document:
     theme: cosmo
